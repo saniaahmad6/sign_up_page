@@ -1,5 +1,5 @@
 # The-Newsletter
-- For the Newsletter API, go to "http://mailchimp.com/" to generate the API_KEY and Audience_ID. Enter the data center in place of "<dc>"
+- For the Newsletter API, go to "http://mailchimp.com/" to generate the API_KEY and Audience_ID. Enter the data center in place of "dc"
 
 -  Node_modules can be installed using package.json
 
